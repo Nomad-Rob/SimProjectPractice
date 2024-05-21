@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SimProject",
+			"Path": "..\\Source\\SimProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SimProjectEditor",
+			"Path": "..\\Source\\SimProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
